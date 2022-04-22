@@ -253,7 +253,7 @@ function App() {
         <Col xl="12" className="text-break py-2">
           <Form.Group className="my-2">
             <Form.Label>
-              <strong>Encoded JW3T</strong>
+              <strong>Encoded TW3T</strong>
             </Form.Label>
             <Form.Control
               as="textarea"

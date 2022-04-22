@@ -22,7 +22,7 @@ export const loadSigningAccounts = async () => {
       }),
     });
   }
-  const injectedExt = await web3Enable('jw3t debugger');
+  const injectedExt = await web3Enable('tw3t debugger');
   console.log(injectedExt);
   if (injectedExt.length === 0) {
     // no extension installed, or the user did not accept the authorization
